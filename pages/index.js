@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Olá meu bem. É só uma mensagem encaminhada como exercicio do curso de programação. Me retorne um 'recebi', por favor.</h1>
+    return <h1>Oi meu bem, este é um exercício do curso de programação. Pode me avisar que viu esta mensagem, por favor?</h1>
 }
 
 export default Home;
